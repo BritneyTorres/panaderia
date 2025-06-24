@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "596706096553",
+    "project_id": "crud-99f1e",
+    "storage_bucket": "crud-99f1e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596706096553:android:4df224ee168ee2cc6900b8",
+        "android_client_info": {
+          "package_name": "com.example.crud_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqIXRjYg1jyn8BkbpKnzTnoK2nHPA9dzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596706096553:android:0bf068184efad8416900b8",
+        "android_client_info": {
+          "package_name": "com.example.panaderia_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqIXRjYg1jyn8BkbpKnzTnoK2nHPA9dzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
